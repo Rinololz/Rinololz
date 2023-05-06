@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rinololz
 - 👀 I’m interested in games
-- 🌱 I’m currently learning c++ c# java html css python
+- 🌱 I’m currently learning c++ c# javaScript html css python
 - 💞️ I’m looking to collaborate on c++ UE5...
 - 📫 How to reach me ...
 
