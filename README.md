@@ -1,4 +1,4 @@
-- 🚫 Do not pet my pet dinosaur
+- 🚫 Do not pet my dinosaur
 
 <!---
 Rinololz/Rinololz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
